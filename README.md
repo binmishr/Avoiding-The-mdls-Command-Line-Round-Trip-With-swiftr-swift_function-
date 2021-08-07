@@ -1,0 +1,1 @@
+# Avoiding-The-mdls-Command-Line-Round-Trip-With-swiftr-swift_function-
